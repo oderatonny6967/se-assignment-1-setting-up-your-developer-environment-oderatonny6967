@@ -43,6 +43,11 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
+ANSWERES TO MY ASSIGNMENT 1 SETTING UP IDE ENVIRONMENT 
+The link below is a google docs link for my assignment  and github account 
+
+https://docs.google.com/document/d/12T0lU-9tlbbeJZOYzvgEv7YtFCg5sNHIxXEua9u5f1c/edit?usp=sharing
+https://github.com/oderatonny6967
 
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
